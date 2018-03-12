@@ -33,34 +33,31 @@
                         "startLines": "2",
                         "startColumns": "2",
                         "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "109"
+                        "endColumns": "39",
+                        "endOffsets": "92"
                     },
                     "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "58",
-                        "endOffsets": "109"
+                        "endColumns": "41",
+                        "endOffsets": "92"
                     }
                 },
                 {
                     "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,4",
-                        "startColumns": "0,0",
-                        "startOffsets": "53,149",
-                        "endLines": "3,7",
-                        "endColumns": "8,8",
-                        "endOffsets": "147,374"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
                         "startLines": "3,5",
                         "startColumns": "4,4",
-                        "startOffsets": "114,212",
+                        "startOffsets": "97,195",
                         "endLines": "4,8",
                         "endColumns": "8,8",
-                        "endOffsets": "207,434"
+                        "endOffsets": "190,417"
                     }
                 }
             ]

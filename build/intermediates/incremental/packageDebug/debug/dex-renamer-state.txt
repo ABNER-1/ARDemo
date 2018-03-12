@@ -1,4 +1,4 @@
-#Mon Mar 12 21:36:55 GMT+08:00 2018
+#Mon Mar 12 21:40:59 GMT+08:00 2018
 base.0=F\:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

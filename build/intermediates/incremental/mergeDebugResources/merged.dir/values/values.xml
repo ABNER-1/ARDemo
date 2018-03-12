@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">New Unity Project (3)</string>
+    <string name="app_name">虚拟相送</string>
     <style name="UnityThemeSelector" parent="android:Theme.Light.NoTitleBar.Fullscreen">
 </style>
     <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
