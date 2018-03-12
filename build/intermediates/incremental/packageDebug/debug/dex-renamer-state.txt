@@ -1,0 +1,4 @@
+#Mon Mar 12 21:29:28 GMT+08:00 2018
+base.0=F\:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

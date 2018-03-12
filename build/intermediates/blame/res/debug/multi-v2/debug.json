@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\build\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "157"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "158"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "0,0",
+                        "startOffsets": "53,149",
+                        "endLines": "3,7",
+                        "endColumns": "8,8",
+                        "endOffsets": "147,374"
+                    },
+                    "to": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,212",
+                        "endLines": "4,8",
+                        "endColumns": "8,8",
+                        "endOffsets": "207,434"
+                    }
+                },
+                {
+                    "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
