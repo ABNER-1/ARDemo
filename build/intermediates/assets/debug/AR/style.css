@@ -1,0 +1,194 @@
+* {
+	margin: 0;
+	padding: 0;
+	border:none;
+	background-color:white;		
+}
+body{margin: 0 auto;
+	width: 1080px;
+}
+div{margin: 0 auto}
+#sell{display: inline-block;
+	float: left;
+}
+#rule{
+	width: 100%;
+}
+input{color: #fffffa;
+	font-size: 44px;
+	position: relative;
+	bottom: 72px;
+	outline: none;
+}
+#add{background-color: red;
+	height: 168px;
+	width: 315px;
+	position: relative;
+	left: -5px;
+	
+}
+#buy{background-color:#1a8ee3;
+	height: 168px;
+	width: 315px;
+	position: relative;
+	left: -12px;	
+}
+.pay{
+	background-color: #f7f7f7;
+}
+#pay{
+	display: inline-block;
+}
+#confirm{
+	background-color: red;
+    bottom: 58px;
+    height: 148px;
+    width: 410px;
+	
+}
+#pay_now{
+	border-radius: 20px;
+    height: 120px;
+    width: 800px;
+    background-color: #1a8ee3;
+    position: relative;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 13%;
+}
+.in_cen{
+	border-radius: 18px;
+    left: 13%;
+    height: 120px;
+    width: 800px;
+}
+#lookup{
+	border-style: solid;
+    margin: 88px 0 20px;
+    color: black;
+}
+#arr{
+	background-color: red;
+    font-size: 46px;
+    color: white;
+}
+#ar{
+	background-color: red;
+	position: absolute;
+	bottom: 0px;
+    left: 14%;
+    font-size: 46px;
+    color: white;
+}
+p{
+	width: 95%;
+	color: gray;
+    font-size: 38px;
+    display: block;
+    position: absolute;
+    left: 5%;
+    padding: 10px;
+}
+#rose{
+	width: 864px;
+    height: 958px;
+}
+#show{
+	background-color: #eeeeee;
+	width: 863px;
+	height: 958px;
+}
+#send{
+	background-color: red;
+
+}
+.top{
+	height: 150px;
+    font-size: 53px;
+    text-align: center;
+    line-height: 150px;
+}
+.body{
+	width: 90%;
+}
+.body1{
+	display: none;
+	position: relative;
+    width: 100%;
+    height: 1110px;
+    background-color: black;
+    opacity: 0.6;
+    bottom: 1107px;
+}
+
+#mid{
+	position: absolute;
+	height: 500px;
+}
+.tip{
+	font-size: 34px;
+    height: 90px;
+    color: white;
+    line-height: 90px;
+    border-radius: 15px;
+    background-color: gray;
+    opacity: 0.6;
+	text-align: center;
+	margin: 15px;
+	
+}
+
+#tip1{
+	float: right;
+	width: 500px;
+	position: absolute;
+   	top: 0px;
+   	right: -150px;
+}
+#tip2{
+	float: left;
+    width: 400px;
+    position: absolute;
+    bottom: 0px;
+	
+}
+#mike{
+	display: inline-block;
+    margin: 65px 0 0;
+    height: 200px;
+    width: 800px;
+}
+#mike_p{
+    position: absolute;
+    top: 180px;
+    left: 58%;
+}
+#share{
+	display: none;
+	z-index: 1;
+    height: 993px;
+    width: 1080px;
+    background-color: #f8f8f8; 
+    position: absolute;
+    bottom: -184px;
+}
+a{
+	height: 100px;
+	width: 100px;
+}
+#weixin{
+	position: absolute;
+    left: 0px;
+}
+#fx{
+	position: relative;
+    bottom: 707px;
+    left: 700px;
+}
+#tz{
+	position: relative;
+    left: 131px;
+    bottom: 572px;
+}
+}

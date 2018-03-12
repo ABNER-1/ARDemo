@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ar</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+
+</head>
+<body>
+<div class="top"> 虚拟相送</div>
+<div class="body">
+    <p>待送商品</p>
+    <div id="show">
+        <img src="images/rose.png" id="rose">
+    </div>
+</div>
+<div class="body1" id="cover"></div>
+<div id="mid">
+    <div class="tip" id="tip1">  STEP1: 语音留下一些祝福吧～</div>
+    <div id="mike">
+        <img src="images/mike.png" onclick ="action()" id="mike_p">
+    </div>
+    <div class="tip" id="tip2">  STEP2:送给特定的人</div>
+</div>
+<button id="ar" class="in_cen" id="send" onclick=show()>虚拟相送</button>
+
+<div class="" id="share">
+    <img src="images/fenxiang.png">
+    <a  id="weixin"><img src="images/weixin.png" onclick="gotoActivity('weixin')"></a>
+</div>
+<script type="text/javascript">
+    var flag = 0;
+	$(document).ready(function(){
+		self.setTimeout(fade,2000)
+		self.setTimeout(fade1,4000)
+		function fade(){
+			$("#tip1").fadeOut(500);
+		}
+		function fade1(){
+			$("#tip2").fadeOut(500);
+		}
+	})
+	function show(){
+		document.getElementById("cover").style.display='block';
+		document.getElementById("mid").style.display="none";
+		document.getElementById("share").style.display='block';
+	}
+	function action(){
+	    if(flag == 0){
+	        ++flag;
+	        nativeMethod.audioOption("start");
+	    }else if(flag == 1){
+	        ++ flag;
+	        nativeMethod.audioOption("end");
+	    } else {
+	    nativeMethod.audioOption("play")
+        }
+	}
+	function gotoActivity (activity) {
+        nativeMethod.toActivity(activity);
+      }
+	</script>
+
+</body>
+</html>

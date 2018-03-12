@@ -40,6 +40,47 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
+                    "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "0,0",
+                        "startOffsets": "53,149",
+                        "endLines": "3,7",
+                        "endColumns": "8,8",
+                        "endOffsets": "147,374"
+                    },
+                    "to": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "114,212",
+                        "endLines": "4,8",
+                        "endColumns": "8,8",
+                        "endOffsets": "207,434"
+                    }
+                }
+            ]
         }
     ]
 }

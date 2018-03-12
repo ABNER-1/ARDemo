@@ -1,189 +1,237 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:2:1-27:12
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:2:1-27:12
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:1-113:12
 	package
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:70-91
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:4:5-26
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:139-164
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:92-138
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:165-188
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:189-229
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:5:5-45
 supports-screens
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:3:3-163
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:9:5-14:40
 	android:largeScreens
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:3:78-105
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:11:9-36
 	android:smallScreens
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:3:21-48
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:13:9-36
 	android:normalScreens
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:3:49-77
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:12:9-37
 	android:xlargeScreens
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:3:106-134
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:14:9-37
 	android:anyDensity
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:3:135-160
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:10:9-34
 application
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:4:3-16:17
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:19:5-25:19
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:19:5-25:19
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:16:5-81:19
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:19:5-25:19
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:19:5-25:19
 	android:label
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:4:92-124
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:20:9-41
 	android:debuggable
-		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:19:18-44
+		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:19:18-44
 	android:icon
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:4:58-91
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:18:9-42
 	android:banner
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:4:147-184
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:17:9-46
 	android:theme
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:4:16-57
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:21:9-50
 	android:isGame
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:4:125-146
-activity#com.AR.Core.UnityPlayerActivity
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:5:5-11:16
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:19:9-30
+activity#com.AR.Core.MainActivity
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:24:9-36:20
 	android:screenOrientation
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:5:48-84
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:29:13-49
 	android:label
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:5:15-47
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:27:13-45
 	android:launchMode
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:5:85-116
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:28:13-44
 	android:configChanges
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:5:117-298
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:26:13-194
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:5:299-345
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:25:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:6:7-9:23
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:31:13-34:29
 action#android.intent.action.MAIN
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:7:9-61
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:7:17-58
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:8:9-69
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:8:19-66
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:33:27-74
+activity#com.AR.Core.UnityPlayerActivity
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:46:9-58:20
+	android:screenOrientation
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:50:13-49
+	android:launchMode
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:49:13-44
+	android:configChanges
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:48:13-194
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:47:13-48
 meta-data#unityplayer.UnityActivity
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:10:7-82
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:55:13-57:40
 	android:value
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:10:59-79
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:57:17-37
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:10:18-58
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:56:17-57
+activity#com.AR.Core.Order
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:60:9-43
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:60:19-40
+activity#com.AR.Core.Pay
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:61:9-41
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:61:19-38
+activity#com.AR.Core.Enter
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:62:9-43
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:62:19-40
+activity#com.AR.Core.Ar
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:63:9-40
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:63:19-37
+activity#com.AR.Core.Fenxiang
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:64:9-46
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:64:19-43
+activity#com.AR.Core.Weixin
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:65:9-44
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:65:19-41
+activity#com.AR.Core.Tiao
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:66:9-42
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:66:19-39
 meta-data#unity.build-id
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:12:5-101
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:69:9-71:68
 	android:value
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:12:46-98
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:71:13-65
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:12:16-45
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:70:13-42
 meta-data#unity.splash-mode
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:13:5-69
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:72:9-74:33
 	android:value
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:13:49-66
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:74:13-30
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:13:16-48
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:73:13-45
 meta-data#unity.splash-enable
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:14:5-74
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:75:9-77:36
 	android:value
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:14:51-71
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:77:13-33
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:14:16-50
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:76:13-47
 meta-data#android.max_aspect
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:15:5-72
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:78:9-80:35
 	android:value
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:15:50-69
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:80:13-32
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:15:16-49
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:79:13-46
 uses-sdk
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:17:3-72
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:17:3-72
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:8:5-10:41
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:8:5-10:41
-INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:17:3-72
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:84:5-86:41
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:84:5-86:41
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:8:5-10:41
+INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:84:5-86:41
 	android:targetSdkVersion
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:17:40-69
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
-		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:86:9-38
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:17:13-39
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:85:9-35
 uses-feature#0x00020000
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:18:3-52
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:87:5-54
 	android:glEsVersion
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:18:17-49
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:87:19-51
 uses-permission#android.permission.CAMERA
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:19:3-63
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:15:5-65
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:15:5-65
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:89:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:15:5-65
 	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:19:20-60
-uses-feature#android.hardware.camera
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:20:3-83
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:12:5-60
-MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:12:5-60
-	android:required
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:20:56-80
-		MERGED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:20:56-80
-	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:20:17-55
-uses-feature#android.hardware.camera.autofocus
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:21:3-93
-	android:required
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:21:66-90
-	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:21:17-65
-uses-feature#android.hardware.camera.front
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:22:3-89
-	android:required
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:22:62-86
-	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:22:17-61
-uses-feature#android.hardware.touchscreen
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:23:3-88
-	android:required
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:23:61-85
-	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:23:17-60
-uses-feature#android.hardware.touchscreen.multitouch
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:24:3-99
-	android:required
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:24:72-96
-	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:24:17-71
-uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:25:3-108
-	android:required
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:25:81-105
-	android:name
-		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:25:17-80
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:89:22-62
 uses-permission#android.permission.INTERNET
-ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:14:5-67
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:90:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:14:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:16:5-79
-	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:16:22-76
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:17:5-81
-	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:17:22-78
-uses-library#com.osterhoutgroup.api.ext
-ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:22:9-24:40
-	android:required
-		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:24:13-37
-	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\20334d5ffe637e29a1726e98b3e92f02\AndroidManifest.xml:23:13-54
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:90:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\New Unity Project (3)\src\main\AndroidManifest.xml:2:1-26:12 reason: com.unity3d.player requested WRITE_EXTERNAL_STORAGE
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:91:5-96
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:91:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:92:5-97
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:92:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:93:5-87
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:93:22-68
+uses-feature#android.hardware.camera
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:95:5-97:36
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:97:9-33
+		MERGED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:97:9-33
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:96:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:98:5-100:36
+	android:required
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:100:9-33
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:99:9-57
+uses-feature#android.hardware.camera.front
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:101:5-103:36
+	android:required
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:103:9-33
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:102:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:104:5-106:36
+	android:required
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:106:9-33
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:105:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:107:5-109:36
+	android:required
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:109:9-33
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:108:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:110:5-112:36
+	android:required
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:112:9-33
+	android:name
+		ADDED from F:\work\vuforia-sdk-android-7-0-50\samples\ook\ARDemo\src\main\AndroidManifest.xml:111:9-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:16:22-76
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\abner\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\dc6a7109bf7cd8650fde04582545ff00\AndroidManifest.xml:23:13-54

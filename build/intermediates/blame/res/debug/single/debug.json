@@ -6,5 +6,17 @@
     {
         "merged": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
         "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\New Unity Project (3)\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "F:\\work\\vuforia-sdk-android-7-0-50\\samples\\ook\\ARDemo\\src\\main\\res\\layout\\fragment_main.xml"
     }
 ]

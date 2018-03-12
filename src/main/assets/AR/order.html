@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>conform order</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="addr"><img src="images/addr.png"></div>
+	<div id='AR'>
+		<button onclick="" id="rule">
+			<img src="images/rule.png">
+		</button>
+	</div>
+
+	<div id="price1"><img src="images/price1.png"></div>
+
+	<div id="pay">
+		<img src="images/price2.png">
+		<a ><input type="button" name="" id="confirm" value="确认订单" onclick="gotoActivity('pay')"></a>
+	</div>
+
+</body>
+<script type="text/javascript">
+  function gotoActivity (activity) {
+    nativeMethod.toActivity(activity);
+  }
+</script>
+</html>

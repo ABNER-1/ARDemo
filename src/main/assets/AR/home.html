@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AR</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+</head>
+<body>
+	<div id='intro'>
+		<img src="images/intro.png">
+	</div>
+
+	<div id='AR'>
+		<button onclick="" id="rule">
+			<img src="images/rule.png">
+		</button>
+	</div>
+	
+	<div id="baitiao">
+		<img src="images/baitiao.png">
+	</div>
+
+	<div id="sell">
+		<img src="images/sell.png">
+		<input type="button" name="" id="add" value="加入购物车" onclick=""> 
+		<a><input type="button" name="" id="buy" value="立即购买" onclick="gotoActivity('order')"></a>
+	</div>
+
+</body>
+<script type="text/javascript">
+  function gotoActivity (activity) {
+    nativeMethod.toActivity(activity);
+  }
+</script>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>pay</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div>
+		<img src="images/payt.png">
+	</div>
+
+	<div class="pay">
+		<img src="images/payb.png">
+		<a ><input type="button" name="" value="立即付款" id="pay_now" onclick="gotoActivity('enter')"></a>
+	</div>
+</body>
+<script type="text/javascript">
+  function gotoActivity (activity) {
+    nativeMethod.toActivity(activity);
+  }
+</script>
+</html>

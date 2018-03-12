@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="VuforiaWrapper:@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/20334d5ffe637e29a1726e98b3e92f02/jars/libs/VuforiaUnityPlayer.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/20334d5ffe637e29a1726e98b3e92f02/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/20334d5ffe637e29a1726e98b3e92f02/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/20334d5ffe637e29a1726e98b3e92f02/jars/libs/Vuforia.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/dc6a7109bf7cd8650fde04582545ff00/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/dc6a7109bf7cd8650fde04582545ff00/jars/libs/Vuforia.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/dc6a7109bf7cd8650fde04582545ff00/jars/libs/VuforiaUnityPlayer.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/dc6a7109bf7cd8650fde04582545ff00/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
